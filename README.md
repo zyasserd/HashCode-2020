@@ -6,8 +6,8 @@
 [*Results:*](https://codingcompetitions.withgoogle.com/hashcode/archive/2020) **9th** on China, **447th** on the world
 
 # Team members
-- Zyad Yasser @zyasserd
+- Zyad Yasser [@zyasserd](https://github.com/zyasserd)
 
-- Phillip Wang @cswpy
+- Phillip Wang [@cswpy](https://github.com/cswpy)
 
 - Joonha Yu
