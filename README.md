@@ -10,4 +10,4 @@
 
 - Phillip Wang [@cswpy](https://github.com/cswpy)
 
-- Joonha Yu
+- Joonha Yu [@odvixn](https://github.com/odvixn)
