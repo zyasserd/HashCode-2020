@@ -1,3 +1,4 @@
+# Note: that this code was produced under stressed competition timing
 import sys
 import statistics
 
