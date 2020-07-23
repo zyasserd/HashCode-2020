@@ -1,13 +1,13 @@
 # HashCode-2020
-Google's Hash Code 2020 Competition Solutions
+[Google's Hash Code 2020](https://codingcompetitions.withgoogle.com/hashcode/) Competition Solutions
 
-Team name: NYUAD
+*Team name:* NYUAD
 
-Results: 9th on China, 447th on the world
+[*Results:*](https://codingcompetitions.withgoogle.com/hashcode/archive/2020) **9th** on China, **447th** on the world
 
 # Team members
-1. Zyad Yasser @zyasserd
+- Zyad Yasser @zyasserd
 
-2. Phillip Wang @cswpy
+- Phillip Wang @cswpy
 
-2. Joonha Yu
+- Joonha Yu
